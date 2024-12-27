@@ -1,0 +1,1 @@
+Aplikasi Rt mager adalah aplikasi untuk menyimpan data warga disebuah rt. Ini berfungsi untuk mempermudah rt jika ada orang yang mencari alamat seseorang ataupun untuk kebutuhan data untuk pencoblosan dan lain sebagainya
